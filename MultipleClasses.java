@@ -1,3 +1,5 @@
+// Each class in this file is compiled into a separate .class file. 
+
 class FirstClass {
     void display() {
         System.out.println("Inside FirstClass");
