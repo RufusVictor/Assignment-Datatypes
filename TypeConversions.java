@@ -1,4 +1,4 @@
-public class TypeConversionDemo {
+public class TypeConversions {
     public static void main(String[] args) {
         byte byteValue = 10;
         short shortValue = byteValue;
